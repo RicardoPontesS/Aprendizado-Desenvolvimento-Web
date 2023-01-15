@@ -1,0 +1,39 @@
+<!doctype html>
+
+<html>
+	<head>
+
+		<title>Exercício de html</title>
+		<meta charset="utf-8">
+
+	</head>
+	<body>
+		
+		<h3>A empresa</h3>
+		<p>Nossa empresa é lider em mercado, atuande desde 1990 no mercado automobilítico...</p>
+
+		<hr>
+
+		<h3>Vantagens de ser cliente</h3>
+		<ol>
+			<li>Atendidento <stronge>rápido</stronge></li>
+			<li>Preços especiais</li>
+			<li>Muitas cidades</li>
+		</ol>
+
+		<hr>
+
+		<h3>O que os clientes estão dizendo:</h3>
+		<em>Gostei demais do atendimento, fpo muito rápido e com certeza irei voltar!</em><br>
+		<strong>Maria Almeida</strong>
+
+		<hr>
+
+		<h3>Mapa do site</h3>
+		<ul>			
+			<li>Home</li>
+			<li>Quem somos</li>
+			<li>Contato</li>
+		</ul>
+	</body>
+</html>
